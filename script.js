@@ -1,5 +1,5 @@
 import { Grid } from "https://cdn.jsdelivr.net/gh/EBross/2048@main/grid.js";
-import { Tile } from "./tile.js";
+import { Tile } from "https://cdn.jsdelivr.net/gh/EBross/2048@main/tile.js";
 
 const gameBoard = document.getElementById("game-board");
 
